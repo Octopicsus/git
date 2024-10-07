@@ -16,6 +16,7 @@ div{
     font-size: 150px;
     font-family: 'Roboto';
     animation: pulse 1s infinite;
+    letter-spacing: -2px;
 }
 
 @keyframes pulse{
