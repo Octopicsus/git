@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Roboto';
-    src: url(fonts/RobotoMono-SemiBold.ttf);
+    src: url("/fonts/RobotoMono-SemiBold.ttf");
 } 
 
 body{
@@ -13,7 +13,7 @@ div{
     display: flex;
     justify-content: center;
     align-items: center;
-    color: chartreuse;
+    color: rgb(200, 255, 0);
     font-size: 100px;
     font-family: 'Roboto';
 }
